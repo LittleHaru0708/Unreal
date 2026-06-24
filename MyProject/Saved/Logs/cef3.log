@@ -1,0 +1,72 @@
+[25208:29508:0625/051145.752:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25208:33432:0625/051145.797:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[25208:29508:0625/051145.802:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[33764:26472:0625/051148.073:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0C67D295435173012B482FAC296C44CB will be ignored
+[30756:14920:0625/051148.315:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[30756:21104:0625/051148.328:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[30756:21104:0625/051148.328:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[30756:21104:0625/051148.328:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20908:18564:0625/051148.346:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[20908:18564:0625/051148.348:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[20908:18564:0625/051148.348:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[20908:18564:0625/051148.348:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[30756:21104:0625/051148.348:WARNING:stun_port.cc(442)] Port[eb7c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[30756:21104:0625/051148.348:WARNING:stun_port.cc(442)] Port[1010800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[30756:21104:0625/051148.348:WARNING:stun_port.cc(442)] Port[1011000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[25208:13128:0625/051148.496:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[25208:29508:0625/051148.558:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[25208:29508:0625/051148.558:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[25208:29508:0625/051148.558:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[25208:29508:0625/051148.558:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[25208:13128:0625/051148.564:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[32860:28024:0625/051148.685:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32860:20412:0625/051148.719:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32860:20412:0625/051148.719:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32860:20412:0625/051148.720:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20908:18564:0625/051148.733:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[20908:18564:0625/051148.733:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[20908:18564:0625/051148.733:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[20908:18564:0625/051148.733:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[32860:20412:0625/051148.733:WARNING:stun_port.cc(442)] Port[f56c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[32860:20412:0625/051148.733:WARNING:stun_port.cc(442)] Port[f57400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[32860:20412:0625/051148.733:WARNING:stun_port.cc(442)] Port[12c4000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[32860:28024:0625/051200.365:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32860:28024:0625/051200.371:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32860:20412:0625/051200.375:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32860:20412:0625/051200.375:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32860:20412:0625/051200.376:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20908:18564:0625/051200.695:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[20908:18564:0625/051200.695:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[20908:18564:0625/051200.695:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[20908:18564:0625/051200.695:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[32860:20412:0625/051200.696:WARNING:stun_port.cc(442)] Port[4585800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[32860:20412:0625/051200.696:WARNING:stun_port.cc(442)] Port[4586000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[32860:20412:0625/051200.696:WARNING:stun_port.cc(442)] Port[4586800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[25208:33432:0625/051351.480:ERROR:cert_verify_proc_builtin.cc(1063)] CertVerifyProcBuiltin for www.google.com failed:
+----- Certificate i=0 (C=NA,O=NA,CN=NA) -----
+ERROR: No matching issuer found
+
+
+[20908:18564:0625/051351.488:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[25208:33432:0625/051416.123:ERROR:cert_verify_proc_builtin.cc(1063)] CertVerifyProcBuiltin for editor.unrealengine.com failed:
+----- Certificate i=0 (C=NA,O=NA,CN=NA) -----
+ERROR: No matching issuer found
+
+
+[20908:18564:0625/051416.459:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[20908:18564:0625/051417.914:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[20908:18564:0625/051419.570:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[20908:18564:0625/051422.903:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[20908:18564:0625/051423.019:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[20908:18564:0625/051423.572:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[20908:18564:0625/051423.928:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[20908:18564:0625/051424.237:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[20908:18564:0625/051425.903:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[25208:33432:0625/051438.744:ERROR:cert_verify_proc_builtin.cc(1063)] CertVerifyProcBuiltin for optimizationguide-pa.googleapis.com failed:
+----- Certificate i=0 (C=NA,O=NA,CN=NA) -----
+ERROR: No matching issuer found
+
+
+[20908:18564:0625/051438.753:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[20908:18564:0625/051451.421:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[25208:29508:0625/051642.119:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
