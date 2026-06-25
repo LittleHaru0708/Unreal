@@ -1,3 +1,2 @@
-2026/06/25-05:28:13.489 4c80 Reusing MANIFEST C:\Users\harut\OneDrive\ドキュメント\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/25-05:28:13.493 4c80 Recovering log #3
-2026/06/25-05:28:13.496 4c80 Reusing old log C:\Users\harut\OneDrive\ドキュメント\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/06/25-16:46:26.332 2d30 Creating DB C:\Users\ktc\Documents\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/06/25-16:46:26.351 2d30 Reusing MANIFEST C:\Users\ktc\Documents\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
