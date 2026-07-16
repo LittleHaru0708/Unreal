@@ -1,0 +1,219 @@
+[23600:9744:0716/164848.010:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[23600:23280:0716/164848.222:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[23600:9744:0716/164848.320:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[23600:10372:0716/164851.626:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Documents\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Documents\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[23600:10372:0716/164851.630:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Documents\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Documents\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[23600:10372:0716/164851.632:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Documents\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Documents\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[23600:10372:0716/164851.633:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Documents\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Documents\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[23600:23280:0716/164852.664:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[23600:23280:0716/164852.669:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24860:24864:0716/164853.141:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-AB7FCD4DB3B21A782CCAB515F1FD4018 will be ignored
+[23600:9744:0716/164853.534:WARNING:frame_host_impl.cc(623)] virtual CefFrameHostImpl::SendProcessMessage sent to detached frame 5-AB7FCD4DB3B21A782CCAB515F1FD4018 (main) will be ignored
+[24584:25500:0716/164853.799:ERROR:backend_impl.cc(989)] Critical error found -8
+[24584:25500:0716/164853.799:ERROR:entry_impl.cc(1029)] No file for c1030068
+[24584:25500:0716/164853.800:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.805:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.805:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.805:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.805:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.807:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.807:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.807:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.807:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.811:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.811:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.812:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.856:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.856:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.856:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.856:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.856:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.856:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.856:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.856:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.856:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.856:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.858:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.858:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.858:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.858:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.859:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.859:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.860:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.861:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.862:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.862:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.862:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.862:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.862:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.862:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.862:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.862:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.864:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.864:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.864:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.864:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.864:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.864:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.864:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.864:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.864:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.864:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.864:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.864:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.864:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.864:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.864:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.864:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.865:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.865:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.865:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.865:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.865:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.865:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.866:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.866:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.866:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.866:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.866:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.866:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.866:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.866:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.867:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.867:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.868:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.868:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.868:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.868:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.868:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.868:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.868:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.868:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.869:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.869:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.869:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.870:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.870:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.870:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.870:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.870:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.870:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.870:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.870:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.870:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.870:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.870:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.870:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.870:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.870:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.871:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.871:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.871:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.871:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.872:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.872:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.872:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.873:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.873:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.873:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.873:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.873:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.873:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.874:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.874:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.874:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.874:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.874:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.874:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.874:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.874:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.875:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.875:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.875:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.875:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.875:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.875:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.875:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.875:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.876:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.876:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.876:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.876:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.876:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.876:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.876:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.876:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.876:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.876:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.877:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.877:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.879:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.882:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.882:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.882:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.882:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.882:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.882:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.883:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.883:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.883:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.883:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.883:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.884:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.884:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.885:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.885:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.885:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.885:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.885:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.885:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.886:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.886:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.886:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.887:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.888:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.888:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164853.888:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164853.889:ERROR:entry_impl.cc(955)] Failed to save user data
+[24584:25500:0716/164854.330:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164854.330:WARNING:storage_block-inl.h(138)] Failed data load.
+[24584:25500:0716/164854.330:WARNING:storage_block-inl.h(138)] Failed data load.
+[23600:9744:0716/171210.508:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
