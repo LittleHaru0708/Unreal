@@ -1,7 +1,1 @@
-2026/07/28-15:39:59.209 551c Log #9: 3 ops saved to Table #10 OK
-2026/07/28-15:39:59.214 551c Archiving C:\Users\harut\OneDrive\ドキュメント\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000009.log: OK
-2026/07/28-15:39:59.221 551c Table #4: 4 entries OK
-2026/07/28-15:39:59.227 551c Table #7: 1 entries OK
-2026/07/28-15:39:59.227 551c Table #10: 3 entries OK
-2026/07/28-15:39:59.236 551c Archiving C:\Users\harut\OneDrive\ドキュメント\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/07/28-15:39:59.247 551c **** Repaired leveldb C:\Users\harut\OneDrive\ドキュメント\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\Site Characteristics Database; recovered 3 files; 589 bytes. Some data may have been lost. ****
+2026/07/28-15:39:59.258 551c Reusing MANIFEST C:\Users\harut\OneDrive\ドキュメント\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
