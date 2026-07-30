@@ -1,3 +1,9 @@
-2026/07/29-12:31:26.420 5a58 Reusing MANIFEST C:\Users\harut\OneDrive\ドキュメント\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/07/29-12:31:26.424 5a58 Recovering log #12
-2026/07/29-12:31:26.425 5a58 Reusing old log C:\Users\harut\OneDrive\ドキュメント\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000012.log 
+2026/07/30-16:49:16.941 2cec Reusing MANIFEST C:\Users\ktc\Documents\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/07/30-16:49:16.942 590c Compacting 4@0 + 0@1 files
+2026/07/30-16:49:16.945 590c Generated table #16@0: 2 keys, 191 bytes
+2026/07/30-16:49:16.945 590c Compacted 4@0 + 0@1 files => 191 bytes
+2026/07/30-16:49:16.946 590c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/07/30-16:49:16.946 590c Delete type=2 #4
+2026/07/30-16:49:16.946 590c Delete type=2 #7
+2026/07/30-16:49:16.946 590c Delete type=2 #10
+2026/07/30-16:49:16.947 590c Delete type=2 #13

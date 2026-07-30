@@ -1,1 +1,8 @@
-2026/07/28-15:39:59.258 551c Reusing MANIFEST C:\Users\harut\OneDrive\ドキュメント\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/07/30-16:49:16.908 2cec Log #12: 2 ops saved to Table #13 OK
+2026/07/30-16:49:16.922 2cec Archiving C:\Users\ktc\Documents\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000012.log: OK
+2026/07/30-16:49:16.922 2cec Table #4: 4 entries OK
+2026/07/30-16:49:16.923 2cec Table #7: 1 entries OK
+2026/07/30-16:49:16.923 2cec Table #10: 3 entries OK
+2026/07/30-16:49:16.923 2cec Table #13: 2 entries OK
+2026/07/30-16:49:16.925 2cec Archiving C:\Users\ktc\Documents\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/07/30-16:49:16.939 2cec **** Repaired leveldb C:\Users\ktc\Documents\GitHub\Unreal\MyProject 5.7\Saved\webcache_6613\Default\Site Characteristics Database; recovered 4 files; 779 bytes. Some data may have been lost. ****
